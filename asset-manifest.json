@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newfigmaApp/static/css/main.a6c47054.css",
-    "main.js": "/newfigmaApp/static/js/main.ed76c567.js",
+    "main.js": "/newfigmaApp/static/js/main.4ccfb6ef.js",
     "static/js/787.4559ef90.chunk.js": "/newfigmaApp/static/js/787.4559ef90.chunk.js",
     "static/media/Path.png": "/newfigmaApp/static/media/Path.a189bda921a94b14a2c9.png",
     "static/media/upload.png": "/newfigmaApp/static/media/upload.e2edf72df9d42c4445bf.png",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/newfigmaApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/newfigmaApp/index.html",
     "main.a6c47054.css.map": "/newfigmaApp/static/css/main.a6c47054.css.map",
-    "main.ed76c567.js.map": "/newfigmaApp/static/js/main.ed76c567.js.map",
+    "main.4ccfb6ef.js.map": "/newfigmaApp/static/js/main.4ccfb6ef.js.map",
     "787.4559ef90.chunk.js.map": "/newfigmaApp/static/js/787.4559ef90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6c47054.css",
-    "static/js/main.ed76c567.js"
+    "static/js/main.4ccfb6ef.js"
   ]
 }
